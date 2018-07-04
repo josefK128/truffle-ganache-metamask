@@ -17,7 +17,7 @@ install:
 (6) launch ganache  
 (7) truffle migrate --reset  
   
-// simply run dApp 
+// simply run dApp   
 (8) launch ganache (not needed if steps 4,5,6,7 were done)  
 (9) click metamask in Chrome  
 (10a) enter password  OR  

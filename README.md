@@ -7,18 +7,18 @@ metamask
 lite-server  
   
 install:  
-(1) git clone https://github.com/josefK128/truffle-ganache-metamask.git    
-(2) cd into repo root    
-(3) npm install    
+(1) choose root directory for repo-clone - cd there  
+(2) git clone https://github.com/josefK128/truffle-ganache-metamask.git    
+(3) cd into repo root    
+(4) npm install    
   
-// compile/test/migrate contract (optional - else jump to (8))  
-(4) truffle compile  
-(5) truffle test  
-(6) launch ganache  
-(7) truffle migrate --reset  
+// compile/test/migrate contract 
+(5) truffle compile  
+(6) truffle test  
+(7) launch ganache  
+(8) truffle migrate --reset  
   
 // simply run dApp   
-(8) launch ganache (not needed if steps 4,5,6,7 were done)  
 (9) click metamask in Chrome  
 (10a) enter password  OR  
 (10b) choose restore from seed - used seed phrase shown in ganache  

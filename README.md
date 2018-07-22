@@ -12,7 +12,7 @@ install:
 (3) cd into repo root    
 (4) npm install    
   
-// compile/test/migrate contract 
+// compile/test/migrate contract   
 (5) truffle compile  
 (6) truffle test  
 (7) launch ganache  

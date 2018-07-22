@@ -7,7 +7,7 @@ metamask
 lite-server  
   
 install:  
-(1) choose root directory for repo-clone - cd there  
+(1) choose parent directory for repo-clone - cd there  
 (2) git clone https://github.com/josefK128/truffle-ganache-metamask.git    
 (3) cd into repo root    
 (4) npm install    
